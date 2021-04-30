@@ -13,8 +13,8 @@ if HEROKU:
 if not HEROKU:
     API_ID = 1488120
     API_HASH = "9684f2fe66b111264c36cc3fa1e8e765"
-    SUDO_CHAT_ID = -1001336384919
-    SUDOERS = [1344497552, 13216546]
+    SUDO_CHAT_ID = -1001343491131
+    SUDOERS = [660086073, 13216546]
 
 # don't make changes below this line
 ARQ_API = "https://thearq.tech"
